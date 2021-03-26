@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/variable.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/variable.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/variable.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/variable.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/ref/variable.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/bin/Debug/net5.0/variable.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/ref/variable.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/variable/obj/Debug/net5.0/variable.genruntimeconfig.cache
