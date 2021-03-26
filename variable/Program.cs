@@ -6,18 +6,8 @@ namespace variable
     {
         static void Main(string[] args)
         {
-            var number = 2;
-            var count = 10;
-            var totalPrice = 20.95f;
-            var character = 'A';
-            var firstName = "Steven";
-            var isWorking = true;
-            Console.WriteLine(number);
-            Console.WriteLine(count);
-            Console.WriteLine(totalPrice);
-            Console.WriteLine(character);
-            Console.WriteLine(firstName);
-            Console.WriteLine(isWorking);
+            System.Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            System.Console.WriteLine("{0} {1}", float.MaxValue, float.MaxValue);
         }
     }
 }
