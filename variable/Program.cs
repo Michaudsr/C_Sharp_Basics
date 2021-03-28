@@ -6,8 +6,8 @@ namespace variable
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
-            System.Console.WriteLine("{0} {1}", float.MaxValue, float.MaxValue);
+            const float Pi = 3.14f;
+            
         }
     }
 }
