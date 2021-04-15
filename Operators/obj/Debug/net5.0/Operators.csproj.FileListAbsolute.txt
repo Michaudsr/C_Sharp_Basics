@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/Operators.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
