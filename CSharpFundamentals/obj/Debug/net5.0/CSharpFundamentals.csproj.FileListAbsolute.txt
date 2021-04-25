@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache
