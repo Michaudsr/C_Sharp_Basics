@@ -4,12 +4,12 @@
 
 namespace CSharpFundamentals
 {
-    public enum ShippingMethod 
-    {
-        RegularAirMail = 1,
-        RegissteredAirMail = 2,
-        Express = 3
-    }
+    // public enum ShippingMethod 
+    // {
+    //     RegularAirMail = 1,
+    //     RegissteredAirMail = 2,
+    //     Express = 3
+    // }
       class Program
     {
         static void Main(string[] args)
@@ -46,15 +46,21 @@ namespace CSharpFundamentals
             // c:\folder3\folder4";
             // Console.WriteLine(text);
             
-            var method = ShippingMethod.Express;
-            Console.WriteLine((int)method);
+            // var method = ShippingMethod.Express;
+            // Console.WriteLine((int)method);
 
-            var methodId = 3;
-            Console.WriteLine((ShippingMethod)methodId);
-            Console.WriteLine(method.ToString());
+            // var methodId = 3;
+            // Console.WriteLine((ShippingMethod)methodId);
+            // Console.WriteLine(method.ToString());
 
-            var methodName = "Express";
-            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            // var methodName = "Express";
+            // var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+
+            var a = 10;
+            var b = a;
+            b++;
+            Console.WriteLine(string.Format("a: {0}, b: {1}", a, b));
+
         }
     }
 }
