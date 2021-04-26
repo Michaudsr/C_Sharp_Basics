@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/Conditionals.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/Conditionals.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/Conditionals.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/Conditionals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/ref/Conditionals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/bin/Debug/net5.0/Conditionals.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/ref/Conditionals.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Conditionals/obj/Debug/net5.0/Conditionals.genruntimeconfig.cache
