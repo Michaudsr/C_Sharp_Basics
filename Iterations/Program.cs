@@ -4,7 +4,7 @@ namespace Iterations
 {
     class Program
     {
-        static int Main()
+        static void Main()
         // {
         //    for (var i =1; i <= 10; i++)
         //    {
@@ -81,15 +81,33 @@ namespace Iterations
         // }
         // 1- Write a program to count how many numbers between 1 and 100 are divisible by 3 with no remainder. 
         // Display the count on the console
-        {
+        // {
             
-            var count = 0;
-            for (var i = 1; i <= 100; i++)
-                if (i % 3 == 0) count++;
-                Console.WriteLine(count);
+        //     var count = 0;
+        //     for (var i = 1; i <= 100; i++)
+        //         if (i % 3 == 0) count++;
+        //         Console.WriteLine(count);
 
-            return count;
+        //     return count;
             
+            
+        // }
+        // 2- Write a program and continuously ask the user to enter a number or "ok" to exit. 
+        // Calculate the sum of all the previously entered numbers and display it on the console.
+        {
+            var sum = 0;
+            while(true)
+            {
+                Console.WriteLine("Enter a number: ");
+                var input = Console.ReadLine();
+                if(input == "ok")
+                    break;
+                var number = Convert.ToInt32(input);
+                sum += number;
+                    
+
+            }
+            Console.WriteLine("Sum of all the numbers is: {0}", sum);
             
         }
     }
