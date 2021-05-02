@@ -4,7 +4,7 @@ namespace ConditionalsExercise
 {
     class Program
     {
-        static void Main()
+        public void Main()
        
         // {
         //     // 1- Write a program and ask the user to enter a number. 
@@ -74,22 +74,18 @@ namespace ConditionalsExercise
             Console.WriteLine("Enter the speed of the car: ");
             var carSpeed = Convert.ToInt32(Console.ReadLine());
 
-            if (carSpeed > speedLimit)
+            if (carSpeed < speedLimit)
+                Console.WriteLine("Ok");
+            else 
             {
-                var demeritPoints = 0;
-                while(carSpeed > speedLimit)
-                {
-                    carSpeed -= 5;
-                    demeritPoints ++;
-                }
+                const int kmPerDemeritPoint = 5;
+                var demeritPoints = (carSpeed - speedLimit)/kmPerDemeritPoint;
                 if (demeritPoints > 12)
                     Console.WriteLine("License Suspended");
-            
+                else 
+                    Console.WriteLine("Demerit points: " + demeritPoints);
             }
-            else
-            {
-                Console.WriteLine("OK");
-            }
+           
         }
     }
 }
