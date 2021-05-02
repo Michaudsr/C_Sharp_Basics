@@ -34,13 +34,24 @@ namespace Iterations
         //         Console.WriteLine(character);
         //     }
         // }
-        {
-            var numbers = new int[] {1, 2, 3, 4};
+        // {
+        //     var numbers = new int[] {1, 2, 3, 4};
 
-            foreach(var number in numbers)
-            {
-                Console.WriteLine(number);
-            }
+        //     foreach(var number in numbers)
+        //     {
+        //         Console.WriteLine(number);
+        //     }
+
+        // }
+        {
+        var i = 0;
+        while (i <= 10)
+        {
+            if (i % 2 == 0)
+            Console.WriteLine(i);
+
+            i++;
+        }
 
         }
     }
