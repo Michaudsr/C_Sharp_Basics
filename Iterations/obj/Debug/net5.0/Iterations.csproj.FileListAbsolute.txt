@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/Iterations.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/Iterations.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/ref/Iterations.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/bin/Debug/net5.0/Iterations.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/ref/Iterations.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/Iterations/obj/Debug/net5.0/Iterations.genruntimeconfig.cache
