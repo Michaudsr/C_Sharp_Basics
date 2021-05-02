@@ -21,18 +21,27 @@ namespace Iterations
         //        }
         //    }
         // }
+        // {
+        //     var name = "John Smith";
+
+        //     // for (var i = 0; i < name.Length; i++)
+        //     // {
+        //     //     Console.WriteLine(name[i]);
+        //     // }
+
+        //     foreach (var character in name)
+        //     {
+        //         Console.WriteLine(character);
+        //     }
+        // }
         {
-            var name = "John Smith";
+            var numbers = new int[] {1, 2, 3, 4};
 
-            // for (var i = 0; i < name.Length; i++)
-            // {
-            //     Console.WriteLine(name[i]);
-            // }
-
-            foreach (var character in name)
+            foreach(var number in numbers)
             {
-                Console.WriteLine(character);
+                Console.WriteLine(number);
             }
+
         }
     }
 }
