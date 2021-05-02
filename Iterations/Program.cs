@@ -13,6 +13,13 @@ namespace Iterations
                    Console.WriteLine(i);
                }
            } 
+           for (var i = 10; i >= 1; i--)
+           {
+               if (i%2 == 0)
+               {
+                   Console.WriteLine(i);
+               }
+           }
         }
     }
 }
