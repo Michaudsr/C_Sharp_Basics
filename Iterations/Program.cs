@@ -113,14 +113,34 @@ namespace Iterations
         // 3- Write a program and ask the user to enter a number. 
         // Compute the factorial of the number and print it on the console. 
         // For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
-        {
-            Console.WriteLine("Enter a number: ");
-            var number = Convert.ToInt32(Console.ReadLine());
+        // {
+        //     Console.WriteLine("Enter a number: ");
+        //     var number = Convert.ToInt32(Console.ReadLine());
 
-            var factorial = 1;
-            for (var i = 1; i <= number; i++)
-                factorial *= i;
-            Console.WriteLine("{0}! = {1}", number, factorial);
+        //     var factorial = 1;
+        //     for (var i = 1; i <= number; i++)
+        //         factorial *= i;
+        //     Console.WriteLine("{0}! = {1}", number, factorial);
+        // }
+        // 4- Write a program that picks a random number between 1 and 10. 
+        // Give the user 4 chances to guess the number. 
+        // If the user guesses the number, display “You won"; otherwise, display “You lost". 
+        // (To make sure the program is behaving correctly, you can display the secret number on the console first.)
+        {
+            var number = new Random().Next(1, 10);
+
+            Console.WriteLine("Secret is" + number);
+            for (var i = 0; i < 4; i++)
+            {
+                Console.WriteLine("Guess the secret number: ");
+                var guess = Convert.ToInt32(Console.ReadLine());
+                if(guess == number)
+                {
+                    Console.WriteLine("You won!");
+                    return;
+                }
+            }
+            Console.WriteLine("You lost!");
         }
     }
 }
