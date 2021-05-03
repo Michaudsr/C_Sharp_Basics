@@ -4,7 +4,7 @@ namespace Iterations
 {
     class Program
     {
-        static void Main()
+        public static void Main()
         // {
         //    for (var i =1; i <= 10; i++)
         //    {
@@ -94,21 +94,33 @@ namespace Iterations
         // }
         // 2- Write a program and continuously ask the user to enter a number or "ok" to exit. 
         // Calculate the sum of all the previously entered numbers and display it on the console.
-        {
-            var sum = 0;
-            while(true)
-            {
-                Console.WriteLine("Enter a number: ");
-                var input = Console.ReadLine();
-                if(input == "ok")
-                    break;
-                var number = Convert.ToInt32(input);
-                sum += number;
+        // {
+        //     var sum = 0;
+        //     while(true)
+        //     {
+        //         Console.WriteLine("Enter a number: ");
+        //         var input = Console.ReadLine();
+        //         if(input == "ok")
+        //             break;
+        //         var number = Convert.ToInt32(input);
+        //         sum += number;
                     
 
-            }
-            Console.WriteLine("Sum of all the numbers is: {0}", sum);
+        //     }
+        //     Console.WriteLine("Sum of all the numbers is: {0}", sum);
             
+        // }
+        // 3- Write a program and ask the user to enter a number. 
+        // Compute the factorial of the number and print it on the console. 
+        // For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
+        {
+            Console.WriteLine("Enter a number: ");
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            var factorial = 1;
+            for (var i = 1; i <= number; i++)
+                factorial *= i;
+            Console.WriteLine("{0}! = {1}", number, factorial);
         }
     }
 }
