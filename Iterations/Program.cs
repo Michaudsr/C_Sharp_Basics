@@ -126,21 +126,40 @@ namespace Iterations
         // Give the user 4 chances to guess the number. 
         // If the user guesses the number, display “You won"; otherwise, display “You lost". 
         // (To make sure the program is behaving correctly, you can display the secret number on the console first.)
-        {
-            var number = new Random().Next(1, 10);
+        // {
+        //     var number = new Random().Next(1, 10);
 
-            Console.WriteLine("Secret is" + number);
-            for (var i = 0; i < 4; i++)
+        //     Console.WriteLine("Secret is" + number);
+        //     for (var i = 0; i < 4; i++)
+        //     {
+        //         Console.WriteLine("Guess the secret number: ");
+        //         var guess = Convert.ToInt32(Console.ReadLine());
+        //         if(guess == number)
+        //         {
+        //             Console.WriteLine("You won!");
+        //             return;
+        //         }
+        //     }
+        //     Console.WriteLine("You lost!");
+        // }
+        // 5- Write a program and ask the user to enter a series of numbers separated by comma. 
+        // Find the maximum of the numbers and display it on the console. 
+        // For example, if the user enters “5, 3, 8, 1, 4", the program should display 8.
+        {
+            Console.WriteLine("Enter a series of numbers seperated by a comma to find the maximum: ");
+            var input = Console.ReadLine();
+
+            var numbers = input.Split(',');
+
+            var max = Convert.ToInt32(numbers[0]);
+
+            foreach(var str in numbers)
             {
-                Console.WriteLine("Guess the secret number: ");
-                var guess = Convert.ToInt32(Console.ReadLine());
-                if(guess == number)
-                {
-                    Console.WriteLine("You won!");
-                    return;
-                }
+                var number = Convert.ToInt32(str);
+                if(number > max)
+                max = number;
             }
-            Console.WriteLine("You lost!");
+            Console.WriteLine("Max is " + max);
         }
     }
 }
