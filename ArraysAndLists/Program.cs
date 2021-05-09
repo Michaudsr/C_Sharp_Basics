@@ -77,25 +77,39 @@ namespace ArraysAndLists
             // If two people like your post, it displays: [Friend 1] and [Friend 2] like your post.
             // If more than two people like your post, it displays: [Friend 1], [Friend 2] and [Number of Other People] others like your post.
             // Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying a name). Depending on the number of names provided, display a message based on the above pattern.
-        {
-            var likes = new List<string>();
+        // {
+        //     var likes = new List<string>();
             
-            while(true)
-            {
-                Console.WriteLine("Type a name (or hit ENTER to quit): ");
-                var input = Console.ReadLine();
-                if (String.IsNullOrWhiteSpace(input))
-                    break;
-                likes.Add(input);
-            }
-            if(likes.Count > 2)
-                Console.WriteLine("{0}, {1} and {2} others like your post", likes[0], likes[1], likes.Count -2);
-            else if (likes.Count == 2)
-                Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
-            else if(likes.Count == 1)
-                Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
-            else Console.WriteLine();
-        }
+        //     while(true)
+        //     {
+        //         Console.WriteLine("Type a name (or hit ENTER to quit): ");
+        //         var input = Console.ReadLine();
+        //         if (String.IsNullOrWhiteSpace(input))
+        //             break;
+        //         likes.Add(input);
+        //     }
+        //     if(likes.Count > 2)
+        //         Console.WriteLine("{0}, {1} and {2} others like your post", likes[0], likes[1], likes.Count -2);
+        //     else if (likes.Count == 2)
+        //         Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
+        //     else if(likes.Count == 1)
+        //         Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
+        //     else Console.WriteLine();
+        // }
+        // 2- Write a program and ask the user to enter their name. 
+        // Use an array to reverse the name and then store the result in a new string. 
+        // Display the reversed name on the console.
+        {
+            Console.WriteLine("What's your name? ");
+            var name = Console.ReadLine();
 
+            var array = new char[name.Length];
+            for (var i = name.Length; i > 0; i--)
+                array[name.Length - i] = name[i - 1];
+
+            var reversed = new string(array);
+            Console.WriteLine("Reversed name: " + reversed);
+
+        }
     }
 }
