@@ -99,17 +99,40 @@ namespace ArraysAndLists
         // 2- Write a program and ask the user to enter their name. 
         // Use an array to reverse the name and then store the result in a new string. 
         // Display the reversed name on the console.
+        // {
+        //     Console.WriteLine("What's your name? ");
+        //     var name = Console.ReadLine();
+
+        //     var array = new char[name.Length];
+        //     for (var i = name.Length; i > 0; i--)
+        //         array[name.Length - i] = name[i - 1];
+
+        //     var reversed = new string(array);
+        //     Console.WriteLine("Reversed name: " + reversed);
+
+        // }
+        // 3- Write a program and ask the user to enter 5 numbers. 
+        // If a number has been previously entered, display an error message and ask the user to re-try. 
+        // Once the user successfully enters 5 unique numbers, sort them and display the result on the console.
         {
-            Console.WriteLine("What's your name? ");
-            var name = Console.ReadLine();
+            
+            var numbers = new List<int>();
 
-            var array = new char[name.Length];
-            for (var i = name.Length; i > 0; i--)
-                array[name.Length - i] = name[i - 1];
+            while (numbers.Count < 5)
+            {
+                Console.WriteLine("Enter a number: ");
+                var number = Convert.ToInt32(Console.ReadLine());
+                if(numbers.Contains(number))
+                {
+                    Console.WriteLine("You've already entered " + number);
+                    continue;
+                }
+                numbers.Add(number);
+            }
+            numbers.Sort();
 
-            var reversed = new string(array);
-            Console.WriteLine("Reversed name: " + reversed);
-
+            foreach(var number in numbers)
+                Console.WriteLine(number);
         }
     }
 }
