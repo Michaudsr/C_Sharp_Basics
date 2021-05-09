@@ -45,31 +45,57 @@ namespace ArraysAndLists
 
 
         // }
-        {
-            var numbers = new List<int>() {1, 2, 3, 4};
-            numbers.Add(1);
-            numbers.AddRange(new int[3] {5, 6, 7});
-            foreach(var number in numbers)
-                Console.WriteLine(number);
+        // {
+        //     var numbers = new List<int>() {1, 2, 3, 4};
+        //     numbers.Add(1);
+        //     numbers.AddRange(new int[3] {5, 6, 7});
+        //     foreach(var number in numbers)
+        //         Console.WriteLine(number);
 
-            Console.WriteLine();
-            Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
-            Console.WriteLine("Index of 1: " + numbers.LastIndexOf(1));
+        //     Console.WriteLine();
+        //     Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
+        //     Console.WriteLine("Index of 1: " + numbers.LastIndexOf(1));
 
-            Console.WriteLine("Count: " + numbers.Count);
+        //     Console.WriteLine("Count: " + numbers.Count);
 
-            for (var i = 0; i < numbers.Count; i++)
-            {
-                if ( numbers[i] == 1)
-                    numbers.Remove(numbers[i]);
-            }
+        //     for (var i = 0; i < numbers.Count; i++)
+        //     {
+        //         if ( numbers[i] == 1)
+        //             numbers.Remove(numbers[i]);
+        //     }
            
-            foreach(var number in numbers)
-                Console.WriteLine(number);
+        //     foreach(var number in numbers)
+        //         Console.WriteLine(number);
                
-            numbers.Clear();
-            Console.WriteLine("Count: " + numbers.Count);
+        //     numbers.Clear();
+        //     Console.WriteLine("Count: " + numbers.Count);
 
+        // }
+        // 1- When you post a message on Facebook, depending on the number of people who like your post, Facebook displays different information.
+            // If no one likes your post, it doesn't display anything.
+            // If only one person likes your post, it displays: [Friend's Name] likes your post.
+            // If two people like your post, it displays: [Friend 1] and [Friend 2] like your post.
+            // If more than two people like your post, it displays: [Friend 1], [Friend 2] and [Number of Other People] others like your post.
+            // Write a program and continuously ask the user to enter different names, until the user presses Enter (without supplying a name). Depending on the number of names provided, display a message based on the above pattern.
+        {
+            var likes = new List<string>();
+            
+            while(true)
+            {
+                Console.WriteLine("Type a name (or hit ENTER to quit): ");
+                var input = Console.ReadLine();
+                if (String.IsNullOrWhiteSpace(input))
+                    break;
+                likes.Add(input);
+            }
+            if(likes.Count > 2)
+                Console.WriteLine("{0}, {1} and {2} others like your post", likes[0], likes[1], likes.Count -2);
+            else if (likes.Count == 2)
+                Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
+            else if(likes.Count == 1)
+                Console.WriteLine("{0} and {1} like your post", likes[0], likes[1]);
+            else Console.WriteLine();
         }
+
     }
 }
