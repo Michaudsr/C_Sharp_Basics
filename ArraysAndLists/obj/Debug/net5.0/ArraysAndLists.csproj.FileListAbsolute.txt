@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ArraysAndLists.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ArraysAndLists.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ArraysAndLists.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ArraysAndLists.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ref/ArraysAndLists.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/bin/Debug/net5.0/ArraysAndLists.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ref/ArraysAndLists.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/ArraysAndLists/obj/Debug/net5.0/ArraysAndLists.genruntimeconfig.cache
