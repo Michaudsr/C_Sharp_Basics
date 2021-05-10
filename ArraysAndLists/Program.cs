@@ -5,7 +5,7 @@ namespace ArraysAndLists
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         // {
         //     var numbers = new[] {3, 7, 9, 2, 14, 6 };
 
@@ -114,25 +114,53 @@ namespace ArraysAndLists
         // 3- Write a program and ask the user to enter 5 numbers. 
         // If a number has been previously entered, display an error message and ask the user to re-try. 
         // Once the user successfully enters 5 unique numbers, sort them and display the result on the console.
-        {
+        // {
             
+        //     var numbers = new List<int>();
+
+        //     while (numbers.Count < 5)
+        //     {
+        //         Console.WriteLine("Enter a number: ");
+        //         var number = Convert.ToInt32(Console.ReadLine());
+        //         if(numbers.Contains(number))
+        //         {
+        //             Console.WriteLine("You've already entered " + number);
+        //             continue;
+        //         }
+        //         numbers.Add(number);
+        //     }
+        //     numbers.Sort();
+
+        //     foreach(var number in numbers)
+        //         Console.WriteLine(number);
+        // }
+        // 4- Write a program and ask the user to continuously enter a number or type "Quit" to exit. 
+        // The list of numbers may include duplicates. 
+        // Display the unique numbers that the user has entered.
+        {
             var numbers = new List<int>();
-
-            while (numbers.Count < 5)
+            while(true)
             {
-                Console.WriteLine("Enter a number: ");
-                var number = Convert.ToInt32(Console.ReadLine());
-                if(numbers.Contains(number))
-                {
-                    Console.WriteLine("You've already entered " + number);
-                    continue;
-                }
-                numbers.Add(number);
-            }
-            numbers.Sort();
+                Console.WriteLine("Enter a number(or 'Quit' to Exit): ");
+                var input = Console.ReadLine();
 
+                if(input.ToLower() == "Quit")
+                    break;
+                
+                numbers.Add(Convert.ToInt32(input));
+
+            }
+
+            var uniques = new List<int>();
             foreach(var number in numbers)
+            {
+                if(!uniques.Contains(number))
+                    uniques.Add(number);
+            }
+            Console.WriteLine("Unique numbers: ");
+            foreach(var number in uniques)
                 Console.WriteLine(number);
+            
         }
     }
 }
