@@ -199,8 +199,6 @@ namespace ArraysAndLists
             Console.WriteLine("The 3 smallest numbers are: ");
             foreach(var number in smallests)
                 Console.WriteLine(number);
-
-
         }
     }
 }

@@ -45,6 +45,10 @@ namespace WorkingWithDates
             //Parse
             Console.WriteLine("Parse: " + TimeSpan.Parse("01:02:03"));
 
+            // var dateTime = new DateTime(2015, 1, 1);
+            // dateTime.AddYears(1);
+            // Console.WriteLine(dateTime.Year);
+
 
         }
     }

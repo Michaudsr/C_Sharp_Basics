@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/ref/WorkingWithDates.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/bin/Debug/net5.0/WorkingWithDates.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/ref/WorkingWithDates.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithDates/obj/Debug/net5.0/WorkingWithDates.genruntimeconfig.cache

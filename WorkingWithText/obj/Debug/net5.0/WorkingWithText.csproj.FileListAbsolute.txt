@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/WorkingWithText.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/WorkingWithText.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/WorkingWithText.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/ref/WorkingWithText.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/bin/Debug/net5.0/WorkingWithText.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/ref/WorkingWithText.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/WorkingWithText/obj/Debug/net5.0/WorkingWithText.genruntimeconfig.cache
