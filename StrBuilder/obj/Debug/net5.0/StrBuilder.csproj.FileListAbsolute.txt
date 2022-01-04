@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/StrBuilder.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/StrBuilder.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/StrBuilder.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/StrBuilder.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/ref/StrBuilder.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/bin/Debug/net5.0/StrBuilder.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/ref/StrBuilder.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/StrBuilder/obj/Debug/net5.0/StrBuilder.genruntimeconfig.cache
