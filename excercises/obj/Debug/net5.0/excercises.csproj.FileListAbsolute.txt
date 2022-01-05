@@ -1,0 +1,15 @@
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/excercises.deps.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/excercises.runtimeconfig.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/excercises.runtimeconfig.dev.json
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/excercises.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/ref/excercises.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/bin/Debug/net5.0/excercises.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.csprojAssemblyReference.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.AssemblyInfoInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.AssemblyInfo.cs
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.csproj.CoreCompileInputs.cache
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/ref/excercises.dll
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.pdb
+/Users/stevenmichaud/generalassembly/udemy/C_Sharp_Basics/excercises/obj/Debug/net5.0/excercises.genruntimeconfig.cache
